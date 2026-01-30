@@ -1,0 +1,21 @@
+| Drug Name    | Category       | Form      | Dosage (mg) | Manufacturer                          | Used For   | Availability     |
+| ------------ | -------------- | --------- | ----------- | ------------------------------------- | ---------- | ---------------- |
+| Acetocillin  | Antidiabetic   | Cream     | 938         | Roche Holding AG                      | Virus      | Over-the-Counter |
+| Ibuprocillin | Antiviral      | Injection | 337         | CSL Limited                           | Infection  | Over-the-Counter |
+| Dextrophen   | Antibiotic     | Ointment  | 333         | Johnson & Johnson                     | Wound      | Prescription     |
+| Clarinazole  | Antifungal     | Syrup     | 362         | AbbVie Inc.                           | Pain       | Prescription     |
+| Amoxicillin  | Antifungal     | Tablet    | 802         | Teva Pharmaceutical Industries Ltd.   | Wound      | Over-the-Counter |
+| Ibupromycin  | Antibiotic     | Injection | 140         | Takeda Pharmaceutical Company Limited | Infection  | Prescription     |
+| Metovir      | Antipyretic    | Ointment  | 641         | Takeda Pharmaceutical Company Limited | Infection  | Over-the-Counter |
+| Ibuprovir    | Antidepressant | Syrup     | 758         | Eli Lilly and Company                 | Fungus     | Over-the-Counter |
+| Cefcillin    | Antipyretic    | Tablet    | 954         | Takeda Pharmaceutical Company Limited | Fungus     | Over-the-Counter |
+| Acetomycin   | Analgesic      | Inhaler   | 838         | Novo Nordisk A/S                      | Wound      | Prescription     |
+| Ibuprocillin | Antifungal     | Ointment  | 422         | AbbVie Inc.                           | Wound      | Prescription     |
+| Acetonazole  | Antipyretic    | Ointment  | 575         | Bayer AG                              | Wound      | Prescription     |
+| Dolocillin   | Antiviral      | Ointment  | 451         | Novo Nordisk A/S                      | Diabetes   | Prescription     |
+| Cefmet       | Antifungal     | Tablet    | 440         | AstraZeneca plc                       | Depression | Prescription     |
+| Dolophen     | Antibiotic     | Capsule   | 469         | Johnson & Johnson                     | Depression | Prescription     |
+| Ibupronazole | Analgesic      | Injection | 720         | Novartis AG                           | Fungus     | Prescription     |
+| Amoxiprofen  | Antiviral      | Ointment  | 861         | Novo Nordisk A/S                      | Diabetes   | Prescription     |
+| Acetomycin   | Antiviral      | Drops     | 978         | Roche Holding AG                      | Virus      | Over-the-Counter |
+| Amoxistatin  | Antiviral      | Inhaler   | 46          | Sanofi S.A.                           | —          | —                |
